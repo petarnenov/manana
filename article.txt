@@ -25,7 +25,6 @@ Update from 1
 Update from 1
 from desktop2
 from desktop2
-
 Insert from 2
 Insert from site
 Insert from site
