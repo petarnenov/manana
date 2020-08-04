@@ -1,9 +1,7 @@
 Hello bro
 Looks good
-<<<<<<< HEAD
 We are the champions
 And we now that
-<<<<<<< HEAD
 Some one create anythimg
 Another one do job
 Again
@@ -11,11 +9,7 @@ From desktop
 From desktop
 more update
 more update
+Some one create anythimg
+Another one do job
+Again
 
-=======
->>>>>>> 79c1a25... Update article.txt
-=======
-Some one create anythimg
-Another one do job
-Again
->>>>>>> 7db3149... Update article.txt
