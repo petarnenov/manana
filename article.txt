@@ -1,2 +1,15 @@
 Hello bro
 Looks good
+We are the champions
+And we now that
+<<<<<<< HEAD
+Some one create anythimg
+Another one do job
+Again
+From desktop
+From desktop
+more update
+more update
+
+=======
+>>>>>>> 79c1a25... Update article.txt
