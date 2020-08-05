@@ -6,5 +6,8 @@ Add line 3
 Add Git 4
 Add Git5
 Add Git 6
+<<<<<<< HEAD
 Add line 6
 
+=======
+>>>>>>> b21bb7e... Update article.txt
